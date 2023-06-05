@@ -22,7 +22,7 @@ Portfolio created using, HTML, CSS and Flexbox. In the project, 2 pages were use
 
 ## Description reason
 
- Project made with the intention of improving and perfecting HTML, CSS and Flexbox
+ Project made with the intention of improving and perfecting, my knowledge in HTML, CSS and Flexbox
 
 ## Built With
 
